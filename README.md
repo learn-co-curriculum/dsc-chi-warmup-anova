@@ -17,21 +17,6 @@ from test_scripts.test_class import Test
 testing = Test()
 ```
 
-## Conceptual Writing
-
-
-
-#### Write one scenario each in which you would use a z-test, a one-sample two-tailed t-test, a two-sample one-tailed t-test, and an ANOVA
-
-
-```python
-'''
-Your writing here
-
-Slack your answers to Ben and he'll check 'em!
-'''
-```
-
 ## Calculations
 
 For each scenario, assume that the data come from normally-distributed populations with ~equal variances
